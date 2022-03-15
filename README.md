@@ -1,1 +1,3 @@
-# pythonstudy
+### pythonstudy
+
+my first study 
